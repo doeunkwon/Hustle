@@ -8,7 +8,7 @@ At the start of every day, everyone is given the same allowance of 24 hours to s
 
 ### Description
 
-Hustle mimics financial banks by offering two main functionalities: 1. the ability to save and lock away time from strenuous work, and 2. the option to spend time on work or school or any other mandatory task and record transactions. Users can peg daily events so that they're aware of how much time is spent on repeating events every day, and spend remaining time on preferred events while keeping an eye on the remaining hours. Hustle places the importance on how much of the 24 hour allowance remains and can still be spent on future opportunities.
+Hustle mimics financial banks by offering two main functionalities: 1. the ability to save and lock away time from strenuous work, and 2. the option to spend time on work or school or any other mandatory task and record transactions. Users can peg daily events so that they're aware of how much time is spent on repeating events every day and then spend the remaining time on other fun stuff while tracking the remaining hours. Hustle places the importance on how much of the 24 hour allowance remains and can still be spent on future opportunities.
 
 ### Notes
 
