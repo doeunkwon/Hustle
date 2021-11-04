@@ -12,6 +12,7 @@ Hustle mimics financial banks by offering two main functionalities: 1. the abili
 
 ### Notes
 
+- I used Swift, Xcode and CoreData
 - Check out the screenshots
 - I've yet to figure out how to successfully add constraints for the UI
 - Designed on the iPhone 11 aspect ratio
